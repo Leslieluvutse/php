@@ -1,0 +1,15 @@
+nav{
+              background-color: black;
+              padding: 14px 28px;
+}
+nav li{
+              display: inline;
+}
+nav li a{
+              color:white;
+              text-decoration: none;
+              padding: 0 14px;
+              font-size: x-large;
+              font-weight: bold;
+              font-family: 'Courier New', Courier, monospace;
+}
